@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorvave",
+        "uuid": 8370186,
+        "checksum": "weabv2"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
